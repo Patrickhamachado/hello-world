@@ -23,7 +23,7 @@ GitHub Desktop test
 4. Open a Pull Request
 5. Merge the Pull Request
 
-**Resultado**: 
+**Resultado**: ??
 
 ---
 
@@ -34,5 +34,7 @@ GitHub Desktop test
 3. Commit
 4. Open a Pull Request
 5. Merge the Pull Request
+
+**Resultado**: ??
 
 ---
