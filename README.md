@@ -36,10 +36,10 @@ GitHub Desktop test
 - [x] 2. Editar el branch **edits-desktop**
 - [x] 3. Commit
 - [x] 4. Push (publish) del branch a la web
-- [ ] 5. Open a Pull Request
-- [ ] 6. Merge the Pull Request
+- [x] 5. Open a Pull Request
+- [x] 6. Merge the Pull Request
 
-**Resultado**: ??
+**Resultado**: Todo funcionó como se esperaba
 
 ---
 
