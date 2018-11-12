@@ -36,17 +36,18 @@ GitHub Desktop test
 - [x] 2. Editar el branch **edits-desktop**
 - [x] 3. Commit
 - [x] 4. Push (publish) del branch a la web
-- [x] 5. Open a Pull Request
-- [x] 6. Merge the Pull Request
+- [ ] 5. Open a Pull Request
+- [ ] 6. Merge the Pull Request
 
-**Resultado**: Todo funcionó como se esperaba
+**Resultado**: ??
 
 ---
 
 ## Borrar el branch desde el Desktop
 
-- [ ] 1. Borrar el Branch
-- [ ] 2. Push
+- [x] 1. Borrar el Branch  
+    El programa pregunta si se desa borrar también de la web y lo hizo correctamente
+- [ ] 2. Push: no fue necesario
 - [ ] 3. Open a Pull Request
 - [ ] 4. Merge the Pull Request
 
