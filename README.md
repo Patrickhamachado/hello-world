@@ -48,9 +48,9 @@ GitHub Desktop test
 - [x] 1. Borrar el Branch  
     El programa pregunta si se desa borrar también de la web y lo hizo correctamente
 - [ ] 2. Push: no fue necesario
-- [ ] 3. Open a Pull Request
-- [ ] 4. Merge the Pull Request
+- [x] 3. Open a Pull Request
+- [x] 4. Merge the Pull Request
 
-**Resultado**: ??
+**Resultado**: Todo funcionó como se esperaba
 
 ---
