@@ -32,9 +32,9 @@ GitHub Desktop test
 
 ## Crear un nuevo branch desde GitHub Desktop y hacer todo desde allí:
 
-- [ ] 1. Nuevo branch **edits-desktop**
-- [ ] 2. Editar el branch **edits-desktop**
-- [ ] 3. Commit
+- [x] 1. [Nuevo branch](https://help.github.com/desktop/guides/contributing-to-projects/creating-a-branch-for-your-work/) **edits-desktop**
+- [x] 2. Editar el branch **edits-desktop**
+- [x] 3. Commit
 - [ ] 4. Push del branch a la web
 - [ ] 5. Open a Pull Request
 - [ ] 6. Merge the Pull Request
