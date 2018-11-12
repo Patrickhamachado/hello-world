@@ -17,13 +17,16 @@ GitHub Desktop test
 
 ## Clonar a GitHub Desktop y hacer todo desde allí:
 
-1. Clonar
-2. Editar el branch **readme-edits**
-3. Commit
-4. Open a Pull Request
-5. Merge the Pull Request
+- [x] 1. [Clonar](https://help.github.com/desktop/guides/contributing-to-projects/cloning-a-repository-from-github-desktop/)
+- [x] 2. Editar el branch **readme-edits**
+- [x] 3. [Commit](https://help.github.com/desktop/guides/contributing-to-projects/committing-and-reviewing-changes-to-your-project/)
+- [x] 4. [Push to the remote (web) branch](https://help.github.com/desktop/guides/contributing-to-projects/committing-and-reviewing-changes-to-your-project/)
+- [ ] 5. [Open a Pull Request](https://help.github.com/desktop/guides/contributing-to-projects/creating-a-pull-request/)  
+    La creación del Pull Request se inicia desde el desktop, se abre la web y se termina desde allí
+- [ ] 6. Merge the Pull Request  
+    Se pueden [ver](https://help.github.com/desktop/guides/contributing-to-projects/accessing-a-pull-request-locally/) en el desktop, pero se hace el merge desde la web
 
-**Resultado**: ??
+**Resultado**: Se pudo editar correctamente el branch, hacer commit y hacer push de este. El Pull Request y el merge se hacen desde la web
 
 ---
 
