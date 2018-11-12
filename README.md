@@ -24,7 +24,7 @@ GitHub Desktop test
 - [ ] 5. [Open a Pull Request](https://help.github.com/desktop/guides/contributing-to-projects/creating-a-pull-request/)
 - [ ] 6. Merge the Pull Request
 
-**Resultado**: ??
+**Resultado**: Se pudo editar correctamente el branch, hacer commit y hacer push de este. 
 
 ---
 
